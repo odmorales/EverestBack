@@ -1,0 +1,15 @@
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\bin\Debug\net6.0\Product.Application.deps.json
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\bin\Debug\net6.0\Product.Application.dll
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\bin\Debug\net6.0\Product.Application.pdb
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\bin\Debug\net6.0\Product.Domain.dll
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\bin\Debug\net6.0\Product.Domain.pdb
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\obj\Debug\net6.0\Product.Application.csproj.AssemblyReference.cache
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\obj\Debug\net6.0\Product.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\obj\Debug\net6.0\Product.Application.AssemblyInfoInputs.cache
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\obj\Debug\net6.0\Product.Application.AssemblyInfo.cs
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\obj\Debug\net6.0\Product.Application.csproj.CoreCompileInputs.cache
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\obj\Debug\net6.0\Product.Application.csproj.CopyComplete
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\obj\Debug\net6.0\Product.Application.dll
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\obj\Debug\net6.0\refint\Product.Application.dll
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\obj\Debug\net6.0\Product.Application.pdb
+C:\Users\odmorales\source\repos\SingleResponsibility\Product.Application\obj\Debug\net6.0\ref\Product.Application.dll
